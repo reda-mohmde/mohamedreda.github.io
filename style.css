@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Style pour la photo */
+header img {
+    width: 100px; /* Réduire la taille de la photo */
+    height: 100px;
+    border-radius: 50%; /* Mettre en format circulaire */
+    margin-bottom: 10px; /* Ajouter un espacement en bas */
+}
